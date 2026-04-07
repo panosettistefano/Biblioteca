@@ -1,0 +1,4 @@
+Array di Libri: https://69c6a8e8f272266f3eacf068.mockapi.io/bibliotecaStefanoPanosetti/Libri
+
+Api project: 
+https://mockapi.io/projects/69c6a8e8f272266f3eacf069
